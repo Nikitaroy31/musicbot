@@ -110,7 +110,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "If you dont know this, Leave as it is",
-      "value": "https://github.com/Nikitaroy31/musicbot/tree/master",
+      "value": "https://github.com/Nikitaroy31/musicbot",
       "required": true
     },
     "UPSTREAM_BRANCH": {
